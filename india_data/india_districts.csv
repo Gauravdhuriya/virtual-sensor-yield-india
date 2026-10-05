@@ -1,0 +1,312 @@
+dist_code,state,district,town,lat,lon,geo_source,soil_ph,has_weather
+1,Chhattisgarh,Durg,Durg,21.1982964,81.4007922,nominatim,7.23,True
+2,Chhattisgarh,Bastar,Jagdalpur,19.0870758,82.0235715,nominatim,6.43,True
+3,Chhattisgarh,Raipur,Raipur,21.2380912,81.6336993,nominatim,7.13,True
+4,Chhattisgarh,Bilaspur,Bilaspur,22.1638486,82.1365923,nominatim,7.47,True
+5,Chhattisgarh,Raigarh,Raigarh,22.2361795,83.3529534,nominatim,7.27,True
+6,Chhattisgarh,Surguja,Ambikapur,23.1226343,83.1981886,nominatim,7.13,True
+7,Madhya Pradesh,Jabalpur,Jabalpur,23.1701522,79.9324505,nominatim,7.3,True
+8,Madhya Pradesh,Balaghat,Balaghat,21.8611589,80.3237105,nominatim,6.3,True
+9,Madhya Pradesh,Chhindwara,Chhindwara,22.2071897,78.798833,nominatim,7.1,True
+10,Madhya Pradesh,Narsinghpur,Narsinghpur,22.934556,79.0867849,nominatim,7.43,True
+11,Madhya Pradesh,Seoni / Shivani,Seoni,22.2748109,79.7202522,nominatim,7.2,True
+12,Madhya Pradesh,Mandla,Mandla,22.6871074,80.5816341,nominatim,7.17,True
+13,Madhya Pradesh,Sagar,Sagar,23.8083076,78.758254,nominatim,7.17,True
+14,Madhya Pradesh,Damoh,Damoh,23.7981005,79.5419356,nominatim,7.43,True
+15,Madhya Pradesh,Tikamgarh,Tikamgarh,24.8552105,79.0472546,nominatim,7.3,True
+16,Madhya Pradesh,Chhatarpur,Chhatarpur,24.7606089,79.6781776,nominatim,7.4,True
+17,Madhya Pradesh,Panna,Panna,24.4498931,80.1462723,nominatim,7.63,True
+18,Madhya Pradesh,Rewa,Rewa,24.7560846,81.3810574,nominatim,7.3,True
+19,Madhya Pradesh,Sidhi,Sidhi,24.2112687,81.7000415,nominatim,7.1,True
+20,Madhya Pradesh,Satna,Satna,24.6954445,80.7770348,nominatim,7.6,True
+21,Madhya Pradesh,Shahdol,Shahdol,23.3002343,81.364771,nominatim,7.2,True
+22,Madhya Pradesh,Gwalior,Gwalior,26.2037247,78.1573628,nominatim,7.4,True
+23,Madhya Pradesh,Shivpuri,Shivpuri,25.3741215,77.8278866,nominatim,7.0,True
+24,Madhya Pradesh,Guna,Guna,24.5001772,77.2600959,nominatim,,True
+25,Madhya Pradesh,Datia,Datia,25.9182947,78.6644962,nominatim,7.73,True
+26,Madhya Pradesh,Morena,Morena,26.3849794,77.8612721,nominatim,7.83,True
+27,Madhya Pradesh,Bhind,Bhind,26.3518828,78.6863189,nominatim,7.9,True
+28,Madhya Pradesh,Indore,Indore,22.7203616,75.8681996,nominatim,7.37,True
+29,Madhya Pradesh,Ratlam,Ratlam,23.50222,74.9551534,nominatim,,True
+30,Madhya Pradesh,Ujjain,Ujjain,23.1885131,75.7716562,nominatim,7.3,True
+31,Madhya Pradesh,Mandsaur,Mandsaur,24.2628148,75.385692,nominatim,,True
+32,Madhya Pradesh,Dewas,Dewas,22.8057498,76.2940408,nominatim,7.6,True
+33,Madhya Pradesh,Dhar,Dhar,22.5786572,75.2258637,nominatim,7.6,True
+34,Madhya Pradesh,Jhabua,Jhabua,22.8869652,74.7243249,nominatim,7.17,True
+35,Madhya Pradesh,Khargone / West Nimar,Khargone,21.9544729,75.7521248,nominatim,7.4,True
+36,Madhya Pradesh,Khandwa / East Nimar,Khandwa,21.9769779,76.5675344,nominatim,7.5,True
+37,Madhya Pradesh,Sehore,Sehore,23.1150041,77.0665356,nominatim,,True
+38,Madhya Pradesh,Raisen,Raisen,23.2675909,78.1727134,nominatim,6.27,True
+39,Madhya Pradesh,Vidisha,Vidisha,23.8463004,77.8370209,nominatim,7.57,True
+40,Madhya Pradesh,Betul,Betul,21.8797472,77.8753651,nominatim,7.33,True
+41,Madhya Pradesh,Rajgarh,Rajgarh,23.8716707,76.7744703,nominatim,7.57,True
+42,Madhya Pradesh,Shajapur,Shajapur,23.4171002,76.6074794,nominatim,7.5,True
+43,Madhya Pradesh,Hoshangabad,Hoshangabad,22.7545538,77.7198249,nominatim,7.0,True
+44,Andhra Pradesh,Srikakulam,Srikakulam,18.2949307,83.8938844,nominatim,6.6,True
+45,Andhra Pradesh,Visakhapatnam,Visakhapatnam,17.6935526,83.2921297,nominatim,6.63,True
+46,Andhra Pradesh,East Godavari,Kakinada,16.9437385,82.2350607,nominatim,6.83,True
+47,Andhra Pradesh,West Godavari,Eluru,16.7104257,81.1153816,nominatim,6.7,True
+48,Andhra Pradesh,Krishna,Machilipatnam,16.1817369,81.1348181,nominatim,6.63,True
+49,Andhra Pradesh,Guntur,Guntur,16.2915189,80.4541588,nominatim,6.73,True
+50,Andhra Pradesh,S.P.S. Nellore,Nellore,14.4493717,79.9873763,nominatim,7.0,True
+51,Andhra Pradesh,Kurnool,Kurnool,15.8309251,78.0425373,nominatim,7.43,True
+52,Andhra Pradesh,Ananthapur,Anantapur,14.6783221,77.6065039,nominatim,6.97,True
+53,Andhra Pradesh,Kadapa YSR,Kadapa,14.4752936,78.8216861,nominatim,6.77,True
+54,Andhra Pradesh,Chittoor,Chittoor,13.325036,79.6480611,nominatim,7.0,True
+55,Telangana,Hyderabad,Hyderabad,17.360589,78.4740613,nominatim,6.67,True
+56,Telangana,Nizamabad,Nizamabad,18.6731912,78.0978195,nominatim,7.13,True
+57,Telangana,Medak,Medak,17.9375095,78.211745,nominatim,7.17,True
+58,Telangana,Mahabubnagar,Mahabubnagar,16.6965686,77.9591146,nominatim,6.77,True
+59,Telangana,Nalgonda,Nalgonda,17.0504406,79.2669235,nominatim,7.1,True
+60,Telangana,Warangal,Warangal,17.9820644,79.5970954,nominatim,7.2,True
+61,Telangana,Khammam,Khammam,17.2465351,80.1500326,nominatim,6.8,True
+62,Telangana,Karimnagar,Karimnagar,18.4348122,79.1328042,nominatim,7.07,True
+63,Telangana,Adilabad,Adilabad,19.6759452,78.5339895,nominatim,7.2,True
+64,Karnataka,Bangalore,Bengaluru,12.9767936,77.590082,nominatim,6.27,True
+65,Karnataka,Kolar,Kolar,13.1805066,78.2669329,nominatim,7.0,True
+66,Karnataka,Tumkur,Tumakuru,13.4192512,76.8810004,nominatim,6.87,True
+67,Karnataka,Mysore,Mysuru,12.3041464,76.6529521,nominatim,6.87,True
+68,Karnataka,Mandya,Mandya,12.6368939,76.7275477,nominatim,6.8,True
+69,Karnataka,Hassan,Hassan,13.0301852,76.1744968,nominatim,6.97,True
+70,Karnataka,Shimoge,Shivamogga,13.9326093,75.574978,nominatim,6.7,True
+71,Karnataka,Chickmagalur,Chikkamagaluru,13.4058699,75.638758,nominatim,5.6,True
+72,Karnataka,Chitradurga,Chitradurga,14.3049174,76.5296667,nominatim,7.13,True
+73,Karnataka,Bellary,Ballari,15.3483166,76.8054883,nominatim,6.87,True
+74,Karnataka,Dharwad,Dharwad,15.3707296,75.1332867,nominatim,7.53,True
+75,Karnataka,Belgaum,Belagavi,16.1587846,74.888862,nominatim,7.6,True
+76,Karnataka,Bijapur / Vijayapura,Vijayapura,16.814415,75.8933856,nominatim,7.2,True
+77,Karnataka,Bidar,Bidar,18.0207297,77.2487204,nominatim,7.2,True
+78,Karnataka,Raichur,Raichur,16.0547194,76.9003647,nominatim,6.8,True
+79,Karnataka,Gulbarga / Kalaburagi,Kalaburagi,17.2408957,76.7697439,nominatim,7.33,True
+80,Karnataka,Dakshina Kannada,Mangaluru,12.8698101,74.8430082,nominatim,5.63,True
+81,Karnataka,Uttara Kannada,Karwar,14.812189,74.1323413,nominatim,,True
+82,Karnataka,Kodagu / Coorg,Madikeri,12.42149,75.7387543,nominatim,5.47,True
+83,Tamil Nadu,Chengalpattu MGR / Kanchipuram,Kanchipuram,12.9647163,79.9839686,nominatim,6.83,True
+84,Tamil Nadu,South Arcot / Cuddalore,Cuddalore,11.5202071,79.3396356,nominatim,7.17,True
+85,Tamil Nadu,North Arcot / Vellore,Vellore,12.9021849,79.061104,nominatim,7.07,True
+86,Tamil Nadu,Salem,Salem,11.6469616,78.2106958,nominatim,6.67,True
+87,Tamil Nadu,Coimbatore,Coimbatore,11.0018115,76.9628425,nominatim,7.13,True
+88,Tamil Nadu,Tiruchirapalli / Trichy,Tiruchirappalli,10.8071144,78.6880939,nominatim,7.37,True
+89,Tamil Nadu,Thanjavur,Thanjavur,10.659037,79.2014278,nominatim,7.3,True
+90,Tamil Nadu,Madurai,Madurai,9.9261153,78.1140983,nominatim,7.2,True
+91,Tamil Nadu,Ramananthapuram,Ramanathapuram,9.5205576,78.5184635,nominatim,7.37,True
+92,Tamil Nadu,Thirunelveli,Tirunelveli,8.5495014,77.5805178,nominatim,6.33,True
+93,Tamil Nadu,The Nilgiris,Udhagamandalam,11.4126769,76.7030504,nominatim,6.2,True
+94,Tamil Nadu,Kanyakumari,Nagercoil,8.1839904,77.4315437,nominatim,6.2,True
+95,Maharashtra,Bombay,Mumbai,19.054999,72.8692035,nominatim,,True
+96,Maharashtra,Thane,Thane,19.3653598,73.3685437,nominatim,6.63,True
+97,Maharashtra,Raigad,Alibag,18.6498427,72.8765469,nominatim,6.43,True
+98,Maharashtra,Ratnagiri,Ratnagiri,17.2826079,73.4569787,nominatim,6.2,True
+99,Maharashtra,Nasik,Nashik,20.0112475,73.7902364,nominatim,6.83,True
+100,Maharashtra,Dhule,Dhule,21.1305215,74.4900614,nominatim,7.3,True
+101,Maharashtra,Jalgaon,Jalgaon,20.8428827,75.5261246,nominatim,7.4,True
+102,Maharashtra,Ahmednagar,Ahmednagar,19.092952,74.7493451,nominatim,7.07,True
+103,Maharashtra,Pune,Pune,18.5213738,73.8545071,nominatim,6.63,True
+104,Maharashtra,Satara,Satara,17.6361289,74.2982781,nominatim,6.97,True
+105,Maharashtra,Sangli,Sangli,17.1726928,74.5867654,nominatim,7.4,True
+106,Maharashtra,Solapur,Solapur,17.8499067,75.2763203,nominatim,7.2,True
+107,Maharashtra,Kolhapur,Kolhapur,16.7028412,74.2405329,nominatim,6.77,True
+108,Maharashtra,Aurangabad,Aurangabad,19.877263,75.3390241,nominatim,7.13,True
+109,Maharashtra,Parbhani,Parbhani,19.2901981,76.6026443,nominatim,7.3,True
+110,Maharashtra,Beed,Beed,18.9918442,75.909784,nominatim,7.2,True
+111,Maharashtra,Nanded,Nanded,19.0942729,77.4832628,nominatim,7.27,True
+112,Maharashtra,Osmanabad,Osmanabad,18.2822454,76.0588166,nominatim,7.2,True
+113,Maharashtra,Buldhana,Buldhana,20.562845,76.4086986,nominatim,7.0,True
+114,Maharashtra,Akola,Akola,20.7618122,77.1921157,nominatim,7.47,True
+115,Maharashtra,Amarawati,Amravati,21.1545412,77.6442962,nominatim,7.57,True
+116,Maharashtra,Yeotmal,Yavatmal,20.0638677,78.3565663,nominatim,7.1,True
+117,Maharashtra,Wardha,Wardha,20.8256231,78.6131455,nominatim,7.4,True
+118,Maharashtra,Nagpur,Nagpur,21.1498134,79.0820556,nominatim,7.27,True
+119,Maharashtra,Bhandara,Bhandara,21.1225869,79.794509,nominatim,7.23,True
+120,Maharashtra,Chandrapur,Chandrapur,20.0967555,79.5045475,nominatim,7.1,True
+121,Gujarat,Ahmedabad,Ahmedabad,23.0215374,72.5800568,nominatim,7.43,True
+122,Gujarat,Amreli,Amreli,21.4176122,71.249609,nominatim,7.37,True
+123,Gujarat,Banaskantha,Palanpur,24.1709794,72.4366375,nominatim,7.33,True
+124,Gujarat,Bharuch,Bharuch,21.7080427,72.9956936,nominatim,7.0,True
+125,Gujarat,Vadodara / Baroda,Vadodara,22.2973142,73.1942567,nominatim,7.23,True
+126,Gujarat,Bhavnagar,Bhavnagar,21.7718836,72.1416449,nominatim,6.97,True
+127,Gujarat,Valsad,Valsad,20.4321957,73.1409893,nominatim,7.07,True
+128,Gujarat,Dangs,Ahwa,20.7587262,73.6873533,nominatim,6.9,True
+129,Gujarat,Jamnagar,Jamnagar,22.4732415,70.0552102,nominatim,7.0,True
+130,Gujarat,Junagadh,Junagadh,21.5220416,70.4582458,nominatim,6.83,True
+131,Gujarat,Kheda,Nadiad,22.6895535,72.8713603,nominatim,7.23,True
+132,Gujarat,Kutch,Bhuj,23.2472446,69.668339,nominatim,7.73,True
+133,Gujarat,Mehsana,Mehsana,23.6012628,72.3741516,nominatim,7.3,True
+134,Gujarat,Panchmahal,Godhra,22.7785001,73.6245157,nominatim,7.37,True
+135,Gujarat,Rajkot,Rajkot,22.3053263,70.8028377,nominatim,7.2,True
+136,Gujarat,Sabarkantha,Himatnagar,23.5971246,72.9588273,nominatim,7.4,True
+137,Gujarat,Surat,Surat,21.2094892,72.8317058,nominatim,7.2,True
+138,Gujarat,Surendranagar,Surendranagar,22.8251395,71.6209736,nominatim,7.53,True
+139,Rajasthan,Ajmer,Ajmer,26.4691,74.639,nominatim,7.57,True
+140,Rajasthan,Alwar,Alwar,27.4140049,76.6170387,nominatim,7.7,True
+141,Rajasthan,Banswara,Banswara,23.4915047,74.3502172,nominatim,7.27,True
+142,Rajasthan,Barmer,Barmer,25.5814853,71.1924922,nominatim,7.8,True
+143,Rajasthan,Bharatpur,Bharatpur,27.0246959,77.2920116,nominatim,7.77,True
+144,Rajasthan,Bhilwara,Bhilwara,25.470994,74.6961316,nominatim,7.4,True
+145,Rajasthan,Bikaner,Bikaner,28.0159286,73.3171367,nominatim,8.23,True
+146,Rajasthan,Bundi,Bundi,25.4367659,75.7361471,nominatim,7.2,True
+147,Rajasthan,Chittorgarh,Chittorgarh,24.7171578,74.4718129,nominatim,7.4,True
+148,Rajasthan,Churu,Churu,28.2047781,74.6912996,nominatim,7.83,True
+149,Rajasthan,Dungarpur,Dungarpur,23.8538893,73.7087177,nominatim,7.33,True
+150,Rajasthan,Ganganagar,Sri Ganganagar,29.4605539,73.5850528,nominatim,7.97,True
+151,Rajasthan,Jaipur,Jaipur,26.9154576,75.8189817,nominatim,7.57,True
+152,Rajasthan,Jaisalmer,Jaisalmer,27.0264162,70.777512,nominatim,8.0,True
+153,Rajasthan,Jalore,Jalore,25.2093482,72.3178889,nominatim,7.6,True
+154,Rajasthan,Jhalawar,Jhalawar,24.3132368,76.5221078,nominatim,7.3,True
+155,Rajasthan,Jhunjhunu,Jhunjhunu,28.0798944,75.5424211,nominatim,7.63,True
+156,Rajasthan,Jodhpur,Jodhpur,26.2967719,73.0351433,nominatim,7.67,True
+157,Rajasthan,Kota,Kota,25.1737019,75.8574194,nominatim,7.47,True
+158,Rajasthan,Nagaur,Nagaur,26.9873443,73.7389011,nominatim,7.63,True
+159,Rajasthan,Pali,Pali,25.4552211,73.419389,nominatim,7.43,True
+160,Rajasthan,Swami Madhopur,Sawai Madhopur,26.2290186,76.3043561,nominatim,7.43,True
+161,Rajasthan,Sikar,Sikar,27.6624156,75.0279971,nominatim,7.53,True
+162,Rajasthan,Sirohi,Sirohi,24.8114047,72.8300257,nominatim,7.4,True
+163,Rajasthan,Tonk,Tonk,26.1223198,75.6632235,nominatim,7.43,True
+164,Rajasthan,Udaipur,Udaipur,24.578721,73.6862571,nominatim,7.2,True
+165,Punjab,Gurdaspur,Gurdaspur,31.9037264,75.2275587,nominatim,7.8,True
+166,Punjab,Amritsar,Amritsar,31.6356659,74.8787496,nominatim,,True
+167,Punjab,Kapurthala,Kapurthala,31.3856476,75.3053304,nominatim,,True
+168,Punjab,Jalandhar,Jalandhar,31.2922312,75.5678878,nominatim,,True
+169,Punjab,Hoshiarpur,Hoshiarpur,31.6092942,75.8459754,nominatim,,True
+170,Punjab,Roopnagar / Ropar,Rupnagar,31.0917102,76.5289701,nominatim,7.33,True
+171,Punjab,Ludhiana,Ludhiana,30.9090157,75.851601,nominatim,,True
+172,Punjab,Ferozpur,Firozpur,30.8753832,74.6525438,nominatim,,True
+174,Punjab,Bhatinda,Bathinda,30.1794814,75.0471098,nominatim,7.9,True
+175,Punjab,Sangrur,Sangrur,30.135717,75.8533326,nominatim,8.03,True
+176,Punjab,Patiala,Patiala,30.2092778,76.3397231,nominatim,8.1,True
+177,Haryana,Hissar,Hisar,29.2396596,75.8174505,nominatim,7.7,True
+180,Haryana,Gurgaon,Gurugram,28.4646148,77.0299194,nominatim,7.87,True
+181,Haryana,Jind,Jind,29.3152073,76.314082,nominatim,8.23,True
+182,Haryana,Mahendragarh / Narnaul,Narnaul,28.0438456,76.1062015,nominatim,7.77,True
+183,Haryana,Ambala,Ambala,30.3843674,76.770421,nominatim,7.27,True
+184,Haryana,Karnal,Karnal,29.7255766,76.9106924,nominatim,8.0,True
+186,Haryana,Rohtak,Rohtak,28.9010899,76.5801935,nominatim,8.0,True
+189,Uttar Pradesh,Saharanpur,Saharanpur,29.9856799,77.5040646,nominatim,6.93,True
+190,Uttar Pradesh,Muzaffarnagar,Muzaffarnagar,29.4496979,77.7429333,nominatim,7.37,True
+191,Uttar Pradesh,Meerut,Meerut,29.0018557,77.7679671,nominatim,7.43,True
+192,Uttar Pradesh,Buland Shahar,Bulandshahr,28.3874073,77.9743805,nominatim,8.4,True
+194,Uttar Pradesh,Aligarh,Aligarh,27.8761073,78.1358153,nominatim,8.43,True
+195,Uttar Pradesh,Mathura,Mathura,27.4955539,77.6855554,nominatim,8.07,True
+196,Uttar Pradesh,Agra,Agra,27.1752554,78.0098161,nominatim,8.1,True
+197,Uttar Pradesh,Mainpuri,Mainpuri,27.2093072,79.0625369,nominatim,8.33,True
+198,Uttar Pradesh,Etah,Etah,27.5550357,78.5992221,nominatim,8.87,True
+199,Uttar Pradesh,Bareilly,Bareilly,28.4582345,79.4047452,nominatim,7.07,True
+200,Uttar Pradesh,Budaun,Budaun,28.0367001,79.1234,nominatim,7.47,True
+201,Uttar Pradesh,Moradabad,Moradabad,28.8796553,78.8095335,nominatim,7.1,True
+202,Uttar Pradesh,Shahjahanpur,Shahjahanpur,27.9128583,79.7476254,nominatim,7.2,True
+203,Uttar Pradesh,Pilibhit,Pilibhit,28.4947158,80.1076122,nominatim,6.97,True
+204,Uttar Pradesh,Rampur,Rampur,28.7934728,79.1845806,nominatim,7.0,True
+205,Uttar Pradesh,Bijnor,Bijnor,29.4074203,78.4821406,nominatim,6.83,True
+206,Uttar Pradesh,Farrukhabad,Farrukhabad,27.4362003,79.4894778,nominatim,8.0,True
+207,Uttar Pradesh,Etawah,Etawah,26.7155629,79.0917098,nominatim,7.67,True
+208,Uttar Pradesh,Kanpur,Kanpur,26.4609135,80.3217588,nominatim,7.33,True
+209,Uttar Pradesh,Fatehpur,Fatehpur,25.8348023,80.9154547,nominatim,7.2,True
+210,Uttar Pradesh,Allahabad,Prayagraj,25.4381302,81.8338005,nominatim,7.33,True
+211,Uttar Pradesh,Jhansi,Jhansi,25.529855,78.6527802,nominatim,7.47,True
+213,Uttar Pradesh,Jalaun,Jalaun,26.1048633,79.3919136,nominatim,7.7,True
+214,Uttar Pradesh,Hamirpur,Hamirpur,25.75,80.0,nominatim,7.57,True
+215,Uttar Pradesh,Banda,Banda,25.4438537,80.5595237,nominatim,7.2,True
+216,Uttar Pradesh,Varanasi,Varanasi,25.3356491,83.0076292,nominatim,7.33,True
+217,Uttar Pradesh,Mirzpur,Mirzapur,24.9316896,82.6280163,nominatim,7.37,True
+218,Uttar Pradesh,Jaunpur,Jaunpur,25.7967065,82.4888992,nominatim,7.3,True
+219,Uttar Pradesh,Ghazipur,Ghazipur,25.6034863,83.5075888,nominatim,7.0,True
+220,Uttar Pradesh,Ballia,Ballia,25.8749595,84.1210329,nominatim,7.3,True
+221,Uttar Pradesh,Gorakhpur,Gorakhpur,26.6677977,83.3642334,nominatim,7.3,True
+222,Uttar Pradesh,Deoria,Deoria,26.4239911,83.7638578,nominatim,7.03,True
+223,Uttar Pradesh,Basti,Basti,26.8387083,82.5350919,nominatim,7.13,True
+224,Uttar Pradesh,Azamgarh,Azamgarh,26.023639,83.0293105,nominatim,7.63,True
+225,Uttar Pradesh,Lucknow,Lucknow,26.8381,80.9346001,nominatim,7.1,True
+226,Uttar Pradesh,Unnao,Unnao,26.5673264,80.6198193,nominatim,7.4,True
+227,Uttar Pradesh,Rae-Bareily,Raebareli,26.2086769,81.2186298,nominatim,7.27,True
+228,Uttar Pradesh,Sitapur,Sitapur,27.5026748,80.8335139,nominatim,7.0,True
+229,Uttar Pradesh,Hardoi,Hardoi,27.3369978,80.0998232,nominatim,7.43,True
+230,Uttar Pradesh,Kheri,Lakhimpur,27.9850602,80.7538454,nominatim,6.87,True
+231,Uttar Pradesh,Faizabad,Faizabad,26.7807986,82.1486589,nominatim,7.27,True
+232,Uttar Pradesh,Gonda,Gonda,27.1103723,81.9238906,nominatim,7.13,True
+233,Uttar Pradesh,Bahraich,Bahraich,27.7343823,81.47654,nominatim,6.9,True
+234,Uttar Pradesh,Sultanpur,Sultanpur,26.2604732,82.2380532,nominatim,7.33,True
+235,Uttar Pradesh,Pratapgarh,Pratapgarh,25.75,81.75,nominatim,7.27,True
+236,Uttar Pradesh,Barabanki,Barabanki,26.9421406,81.3856087,nominatim,7.13,True
+237,Uttarakhand,Nainital,Nainital,29.294995,79.4162511,nominatim,5.77,True
+238,Uttarakhand,Almorah,Almora,29.702651,79.4326318,nominatim,6.17,True
+239,Uttarakhand,Pithorgarh,Pithoragarh,29.585871,80.215167,nominatim,5.9,True
+240,Uttarakhand,Chamoli,Gopeshwar,30.40878,79.31855,nominatim,5.73,True
+241,Uttarakhand,Uttar Kashi,Uttarkashi,30.9635733,78.6362521,nominatim,6.33,True
+242,Uttarakhand,Tehri Garhwal,New Tehri,30.37445,78.43277,nominatim,6.17,True
+243,Uttarakhand,Garhwal,Pauri,30.0652314,78.7315716,nominatim,6.13,True
+244,Uttarakhand,Dehradun,Dehradun,30.3255646,78.0436813,nominatim,6.03,True
+601,Assam,Cachar,Silchar,24.830302,92.7875689,nominatim,5.57,True
+602,Assam,Darrang,Mangaldoi,26.3939266,92.0390088,nominatim,5.73,True
+603,Assam,Dibrugarh,Dibrugarh,27.4844597,94.9019447,nominatim,5.8,True
+604,Assam,Goalpara,Goalpara,26.0491877,90.6001859,nominatim,5.43,True
+605,Assam,Kamrup,Guwahati,26.1805978,91.753943,nominatim,5.3,True
+606,Assam,Karbi Anglong,Diphu,25.8371941,93.4383663,nominatim,5.43,True
+607,Assam,Lakhimpur,North Lakhimpur,27.254431,94.1120339,nominatim,5.37,True
+608,Assam,North Cachar Hil / Dima hasao,Haflong,25.1825103,92.8984045,nominatim,4.9,True
+609,Assam,Nagaon,Nagaon,26.3313646,92.7524763,nominatim,5.6,True
+610,Assam,Sibsagar,Sivasagar,26.9834936,94.6394226,nominatim,5.47,True
+626,Himachal Pradesh,Bilashpur,Bilaspur,31.3380959,76.7611631,nominatim,6.3,True
+627,Himachal Pradesh,Chamba,Chamba,32.6923316,76.1631552,nominatim,5.7,True
+629,Himachal Pradesh,Kangra,Dharamshala,32.2143039,76.3196717,nominatim,6.0,True
+630,Himachal Pradesh,Kinnaur,Reckong Peo,31.5421419,78.2708218,nominatim,6.5,True
+631,Himachal Pradesh,Kullu,Kullu,31.9578974,77.1089232,nominatim,5.83,True
+632,Himachal Pradesh,Lahul & Spiti,Keylong,32.5717891,77.0281479,nominatim,6.6,True
+633,Himachal Pradesh,Solan,Solan,30.9077569,77.1023645,nominatim,6.2,True
+634,Himachal Pradesh,Mandi,Mandi,31.6516617,77.0092542,nominatim,5.63,True
+635,Himachal Pradesh,Shimla,Shimla,31.1040393,77.1707923,nominatim,6.2,True
+636,Himachal Pradesh,Sirmaur,Nahan,30.5601803,77.2923596,nominatim,6.0,True
+651,Kerala,Alappuzha,Alappuzha,9.5003416,76.4123364,nominatim,5.43,True
+652,Kerala,Kannur,Kannur,11.8763836,75.3737973,nominatim,,True
+653,Kerala,Eranakulam,Kochi,9.9679032,76.2444378,nominatim,,True
+655,Kerala,Kottayam,Kottayam,9.6287383,76.6455326,nominatim,5.3,True
+656,Kerala,Kozhikode,Kozhikode,11.2450558,75.7754716,nominatim,,True
+657,Kerala,Malappuram,Malappuram,11.1065685,76.1101742,nominatim,5.6,True
+658,Kerala,Palakkad,Palakkad,10.7873692,76.4742172,nominatim,5.4,True
+659,Kerala,Kollam,Kollam,8.8870533,76.5906696,nominatim,5.3,True
+660,Kerala,Thrissur,Thrissur,10.5270099,76.214621,nominatim,5.3,True
+661,Kerala,Thiruvananthapuram,Thiruvananthapuram,8.4882267,76.947551,nominatim,5.6,True
+701,Orissa,Balasore,Balasore,21.5006421,86.919884,nominatim,6.5,True
+702,Orissa,Bolangir,Balangir,20.6095183,83.1673029,nominatim,6.67,True
+703,Orissa,Cuttack,Cuttack,20.4686,85.8792,nominatim,6.53,True
+704,Orissa,Dhenkanal,Dhenkanal,20.8351494,85.6022305,nominatim,6.23,True
+705,Orissa,Ganjam,Brahmapur,19.3098134,84.7971562,nominatim,6.53,True
+706,Orissa,Kalahandi,Bhawanipatna,19.9104952,83.1678321,nominatim,6.33,True
+707,Orissa,Keonjhar,Keonjhar,21.5,85.5,nominatim,6.2,True
+708,Orissa,Koraput,Koraput,18.7232023,82.6100596,nominatim,5.7,True
+709,Orissa,Mayurbhanja,Baripada,21.9342456,86.7308825,nominatim,6.3,True
+710,Orissa,Phulbani ( Kandhamal ),Phulbani,20.4762322,84.2348517,nominatim,5.77,True
+711,Orissa,Puri,Puri,19.8076083,85.8252538,nominatim,6.63,True
+712,Orissa,Sambalpur,Sambalpur,21.5570606,84.1528515,nominatim,6.23,True
+713,Orissa,Sundargarh,Sundargarh,22.0605153,83.9359154,nominatim,6.67,True
+800,West Bengal,24 Parganas,Barasat,22.7191072,88.4826229,nominatim,,True
+803,West Bengal,Nadia,Krishnanagar,23.4058481,88.4958935,nominatim,6.6,True
+804,West Bengal,Murshidabad,Baharampur,24.1044927,88.2510635,nominatim,7.47,True
+805,West Bengal,Burdwan,Bardhaman,23.2495714,87.8681751,nominatim,6.17,True
+806,West Bengal,Birbhum,Suri,23.9080538,87.5277255,nominatim,6.1,True
+807,West Bengal,Bankura,Bankura,23.132377,87.2081925,nominatim,6.13,True
+810,West Bengal,Hooghly,Chinsurah,22.8992251,88.3921337,nominatim,6.63,True
+811,West Bengal,Howrah,Howrah,22.5736296,88.3251045,nominatim,7.07,True
+812,West Bengal,Jalpaiguri,Jalpaiguri,26.6262805,88.7334485,nominatim,5.8,True
+813,West Bengal,Darjeeling,Darjeeling,27.0377554,88.263176,nominatim,5.8,True
+814,West Bengal,Malda,English Bazar,25.0057449,88.1398483,nominatim,6.63,True
+816,West Bengal,Cooch Behar,Cooch Behar,26.2559197,89.4201143,nominatim,5.67,True
+817,West Bengal,Purulia,Purulia,23.2020967,86.3228988,nominatim,6.43,True
+818,West Bengal,Midnapur,Medinipur,22.4207025,87.3269963,nominatim,6.27,True
+822,West Bengal,West Dinajpur,Balurghat,25.2234352,88.7780654,nominatim,6.47,True
+901,Bihar,Champaran,Motihari,26.6506888,84.9114654,nominatim,6.93,True
+902,Bihar,Muzaffarpur,Muzaffarpur,26.1482548,85.3316097,nominatim,6.97,True
+903,Bihar,Darbhanga,Darbhanga,26.0829899,86.0324951,nominatim,7.07,True
+904,Bihar,Saharsa,Saharsa,25.8330757,86.6143751,nominatim,7.03,True
+905,Bihar,Purnea,Purnia,25.7758723,87.4087667,nominatim,6.8,True
+906,Bihar,Saran,Chhapra,25.7733443,84.7849772,nominatim,6.9,True
+907,Bihar,Patna,Patna,25.6093239,85.1235252,nominatim,7.03,True
+908,Bihar,Mungair,Munger,25.2202864,86.5161484,nominatim,6.0,True
+909,Bihar,Bhagalpur,Bhagalpur,25.2861354,87.1304229,nominatim,6.83,True
+910,Jharkhand,Santhal Paragana / Dumka,Dumka,24.2677937,87.2485495,nominatim,5.77,True
+911,Bihar,Shahabad (now part of Bhojpur district),Arrah,25.560317,84.6632139,nominatim,7.33,True
+912,Bihar,Gaya,Gaya,24.7964355,85.0079563,nominatim,7.4,True
+913,Jharkhand,Hazaribagh,Hazaribagh,24.0866962,85.4912231,nominatim,6.7,True
+914,Jharkhand,Dhanbad,Dhanbad,23.7952809,86.4309638,nominatim,6.63,True
+915,Jharkhand,Palamau,Medininagar,24.0397192,84.0658109,nominatim,7.47,True
+916,Jharkhand,Ranchi,Ranchi,23.3700501,85.3250387,nominatim,6.5,True
+917,Jharkhand,Singhbhum,Chaibasa,22.5483518,85.8188876,nominatim,6.27,True

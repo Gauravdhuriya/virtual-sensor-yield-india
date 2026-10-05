@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+out/
+out_quick/
+report_quick/
+india_data/cache/
+india_data/*.npz
+ICRISAT*.csv
+/india_weather_part*.npz
+.DS_Store
+/cache/
+/report.zip
+/india_districts.csv
